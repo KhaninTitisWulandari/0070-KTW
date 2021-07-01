@@ -1,0 +1,19 @@
+Perangkat lunak dan sistem operasi tersebut merupakan buatan manusia dan ada pihak yang mendistribusikannya sehingga banyak orang dapat menggunakannya.
+
+Untuk setiap hal yang dibuat dan didistribusikan selalu ada lisensi agar hal yang digunakan legal.
+
+Lisensi adalah sesuatu yang digunakan untuk melindungi hak cipta termasuk software dan hardware.
+
+Sistem operasi yang digunakan untuk komputer biasanya berbayar.
+
+Contohnya Windows sebagai sistem operasi beserta aplikasi Microsoft Office memberlakukan sistem berbayar dalam hal penggunaannya.
+
+Arti kata berbayar yang dimaksud adalah pengguna membayar kepada pembuat terlebih dahulu sebelum menggunakannya secara legal.
+
+Seiring perkembangan zaman, sistem operasi dan perangkat lunak dapat digunakan secara gratis.
+
+Hal gratis ini biasa disebut open source.
+
+Walaupun dapat diakses secara gratis, sistem operasi dan perangkat lunak ini juga legal.
+
+Menurut Kementerian Komunikasi dan Informatika Republik Indonesia, definisi open source atau sumber terbuka adalah sistem pengembangan yang tidak dikoordinasi oleh suatu individu/ lembaga pusat tetapi oleh para pelaku yang bekerja sama dengan memanfaatkan kode sumber yang tersebar dan tersedia bebas.
